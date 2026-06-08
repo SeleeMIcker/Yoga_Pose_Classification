@@ -28,12 +28,13 @@ https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset
 4. pose_landmarker.task MediaPipe Landmark model bundle 
 5. open_camera.py: To check the camera status
 
-### Download the model trained inside the google Colab, and copy the file into the YOGA_POSE folder
+### Download the model trained inside the google Colab, and copy the file into the YOGA_POSE folder ### 
 1. label_encoder.pkl
 2. yoga_pose_classifier.h5
 
-The "pose_landmarker.task" is download from online (compulsory)
-// wget -O pose_landmarker.task -q https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_heavy/float16/1/pose_landmarker_heavy.task
+## The "pose_landmarker.task" is download from online (compulsory)
+
+### wget -O pose_landmarker.task -q https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_heavy/float16/1/pose_landmarker_heavy.task
 -----------------------------------------------
 1. tensorflow==2.20.0
 2. keras==3.12.2
