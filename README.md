@@ -4,11 +4,11 @@
 
 Real-time yoga pose classification using a webcam, MediaPipe, and Trained Keras Model. 
 
-This project is using MediaPipe extract the Yoga pose landmark (33 Body LandMark) in XYZ values to train the Model. It enables the model to classify User Yoga Pose in real time. 
+This project is using MediaPipe extract the Yoga pose landmark (33 Body LandMark) in XYZ values to train the Model. It enables the model to classify User's Yoga Pose in real time. 
 
 ## Dataset
-The dataset includes 5 poses,
-Downdog, Goddess, Plank, Tree and Warrior2. The Dataset is from kaggle.
+The dataset includes 5 poses,Downdog, Goddess, Plank, Tree and Warrior2. 
+The Dataset is from kaggle.
 
 ## Link for Dataset Used
 https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset 
